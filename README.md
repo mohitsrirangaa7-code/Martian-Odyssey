@@ -4,6 +4,7 @@
 # DATA STRUCTURE
 
 *Jezero Explorer — Data Architecture*
+
 Layer 1 — Base map and terrain
 Core
 HiRISE, CTX, MOLA, HRSC, derived DEMs
