@@ -161,69 +161,6 @@ For a more detailed technical explanation, see [ARCHITECTURE.md](ARCHITECTURE.md
 
 Additional frontend, mapping, visualisation and data-processing technologies will be documented as they are finalised.
 
-## ⚙️ 8. Installation and Setup
-
-### Prerequisites
-
-Ensure that the following are installed:
-
-- Python 3.10 or later
-- Git
-- pip
-- A code editor such as Visual Studio Code
-
-### Step 1: Clone the Repository
-
-```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd MarsWalk-Explorer
-```
-
-### Step 2: Navigate to the Backend
-
-```bash
-cd marswalk-backend
-```
-
-### Step 3: Create a Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-Activate it:
-
-**Windows PowerShell**
-
-```powershell
-.\venv\Scripts\Activate.ps1
-```
-
-### Step 4: Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 5: Start the Backend
-
-Use the application entry point configured in your project.
-
-For example, if your FastAPI application is exposed as `app` in `app.main`:
-
-```bash
-uvicorn app.main:app --reload
-```
-
-### Step 6: Access the API
-
-Once the backend has started, access:
-
-- API: `http://127.0.0.1:8000`
-- Interactive API documentation: `http://127.0.0.1:8000/docs`
-- OpenAPI specification: `http://127.0.0.1:8000/openapi.json`
-
-*Note: These commands assume the repository structure and entry point shown above. Adjust them to match the final project configuration.*
 
 ## 🧭 9. How to Use MarsWalk Explorer
 
