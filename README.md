@@ -3,7 +3,7 @@
 
 # DATA STRUCTURE
 
-*Jezero Explorer — Data Architecture*
+*Jezero and Western Candor Chasma Explorer — Data Architecture*
 
 Layer 1 — Base map and terrain
 Core
