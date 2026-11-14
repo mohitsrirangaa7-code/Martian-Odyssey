@@ -70,15 +70,15 @@ The study area provides opportunities to investigate:
 
 The following capabilities describe the intended functionality of MarsWalk Explorer. Their implementation status will evolve throughout development.
 
-| Feature | Description | Status |
-|---|---|---|
-| Interactive Mars Map | Explore selected Martian geographical regions | In development |
-| Scientific Data Layers | Visualise multiple NASA datasets | In development |
-| Terrain Visualisation | Examine surface elevation and topographical features | Planned |
-| Environmental Context | Display relevant atmospheric and surface measurements | Planned |
-| Route Planning | Support the planning of potential exploration routes | Planned |
-| Hazard Awareness | Help identify terrain and environmental considerations | Planned |
-| Multiple Study Areas | Support Jezero Crater and Candor Chasma | In development |
+| Feature | Description |
+|---|---|
+| Interactive Mars Map | Explore selected Martian geographical regions |
+| Scientific Data Layers | Visualise multiple NASA datasets | 
+| Terrain Visualisation | Examine surface elevation and topographical features | 
+| Environmental Context | Display relevant atmospheric and surface measurements | 
+| Route Planning | Support the planning of potential exploration routes |
+| Hazard Awareness | Help identify terrain and environmental considerations |
+| Multiple Study Areas | Support Jezero Crater and Candor Chasma |
 
 ## 🛰️ 5. NASA Data Sources
 
